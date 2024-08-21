@@ -1,3 +1,3 @@
 the html repository 💯💯💯💯💯💯
 ---
-uploads are via GIT and VSCode
+created and updated via GIT and VSCode

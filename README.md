@@ -1,1 +1,1 @@
-THE HTML REPOSITORY: <a> and <img>
+THE HTML REPOSITORY: a and img tags
